@@ -1,0 +1,27 @@
+[gd_scene load_steps=4 format=3 uid="uid://djeltf4whquc5"]
+
+[ext_resource type="Texture2D" uid="uid://cu0mv1uhnry62" path="res://jFsdvU.jpg" id="1_k17t1"]
+[ext_resource type="PackedScene" uid="uid://df60tydkx2nca" path="res://NicoleNiGru.tscn" id="2_7ig0a"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_0var5"]
+size = Vector2(25638.3, 4700)
+
+[node name="Main Character" type="Node2D"]
+scale = Vector2(0.3, 0.3)
+
+[node name="World" type="Node2D" parent="."]
+
+[node name="Sprite2D" type="Sprite2D" parent="World"]
+position = Vector2(61.6727, -361.667)
+scale = Vector2(40.5979, 29.02)
+texture = ExtResource("1_k17t1")
+
+[node name="StaticBody2D" type="StaticBody2D" parent="World"]
+position = Vector2(-54.9943, 721.663)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="World/StaticBody2D"]
+position = Vector2(33.3333, 3920)
+shape = SubResource("RectangleShape2D_0var5")
+
+[node name="Nicole" parent="." instance=ExtResource("2_7ig0a")]
+position = Vector2(-60, 830)

@@ -1,0 +1,24 @@
+DUNGEONS AND PIXELS — FREE DEMO LICENSE AGREEMENT
+
+By downloading and using this asset pack, you agree to the following terms:
+
+1. PERMITTED USE
+- You may use these assets in both personal and commercial projects.
+- You may edit, modify, or combine these assets with your own work.
+- Credit is appreciated but not required.
+
+2. RESTRICTIONS
+- You may NOT redistribute or resell these assets in their original or modified form as an asset pack, spritesheet, or tileset.
+- You may NOT claim these assets as your own.
+
+3. ALLOWED DISTRIBUTION
+- You may distribute projects (games, apps, media) that use these assets, including commercial releases, as long as the assets are part of the project and not distributed as standalone files.
+
+4. LIABILITY
+- The assets are provided "as is," without warranty of any kind. The creator is not liable for any damages or losses caused by the use of these assets.
+
+---
+
+This license applies to the demo version only. The full version offers extended content and updates available for purchase on https://indie-vova.itch.io/dungeons-and-pixels-starter-pack.
+
+© 2025 Vladimir Ivanov. All rights reserved.
